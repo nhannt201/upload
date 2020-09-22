@@ -1,4 +1,4 @@
-# How to Upload a File to a Server in PHP
+# How to Upload a File to a Server in PHP (Use Javascript Muli File)
 
 [View Tutorial](https://www.taniarascia.com/how-to-upload-files-to-a-server-with-plain-javascript-and-php)
 
